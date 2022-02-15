@@ -1,0 +1,5 @@
+[12-Sep-2021 08:39:48 Europe/London] PHP Warning:  file_get_contents(../admin/app-data.json): failed to open stream: No such file or directory in /home/invisibl/public_html/app/for_sell/constants.php on line 3
+[14-Sep-2021 10:05:28 Europe/London] PHP Warning:  file_get_contents(../admin/app-data.json): failed to open stream: No such file or directory in /home/invisibl/public_html/app/for_sell/constants.php on line 3
+[03-Oct-2021 19:46:48 Europe/London] PHP Warning:  file_get_contents(../admin/app-data.json): failed to open stream: No such file or directory in /home/rgappdev/public_html/Theme/constants.php on line 3
+[03-Oct-2021 19:46:48 Europe/London] PHP Notice:  Trying to get property 'primary_color' of non-object in /home/rgappdev/public_html/Theme/constants.php on line 14
+[03-Oct-2021 19:46:48 Europe/London] PHP Notice:  Trying to get property 'gradient_color_end' of non-object in /home/rgappdev/public_html/Theme/constants.php on line 15
